@@ -1,5 +1,5 @@
 ## sorted-matrix-in-powershell
-отсортированная матрица в powershell
+отсортированная матрица на powershell
 
 # Задача
 
